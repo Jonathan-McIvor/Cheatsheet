@@ -1,6 +1,3 @@
-Markdown Cheatsheet
-======
-
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
